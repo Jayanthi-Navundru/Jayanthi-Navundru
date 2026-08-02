@@ -134,4 +134,4 @@ CGPA: 8.78
 
 
 Email:
-(Add your email)
+njayanthi361@gmail.com
